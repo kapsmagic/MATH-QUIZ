@@ -1,0 +1,18 @@
+body
+{
+     background-image: url("Screenshot\ 2022-02-17\ at\ 10.11.47\ PM.png");
+     background-size: cover;
+}
+.login_div1 , .login_div2
+{
+    background-color: lightpink;
+    padding: 10px;
+    border-radius:15px ;
+    border:10px;
+    float: none;
+    border-color: black;
+}
+center
+{
+    margin-top: 350px;
+}
